@@ -121,7 +121,7 @@ export default function HomePage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7 }}
           >
-            Chào mừng đến với XYZ Corp
+            Chào mừng đến với Recruitpro Corp
           </motion.h1>
           <motion.p
             className="text-xl md:text-2xl text-center max-w-3xl"
@@ -155,7 +155,7 @@ export default function HomePage() {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.5, duration: 0.5 }}
               >
-                Về XYZ Corp
+                Về Recruitpro Corp
               </motion.h2>
               <motion.p
                 className="text-gray-600 mb-6"
@@ -163,7 +163,7 @@ export default function HomePage() {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.7, duration: 0.5 }}
               >
-                Thành lập từ năm 2010, XYZ Corp đã trở thành một trong những công ty hàng đầu trong lĩnh vực công nghệ
+                Thành lập từ năm 2010, Recruitpro Corp đã trở thành một trong những công ty hàng đầu trong lĩnh vực công nghệ
                 tại Việt Nam. Chúng tôi tự hào về đội ngũ nhân viên tài năng và văn hóa làm việc đề cao sự sáng tạo và
                 đổi mới.
               </motion.p>
@@ -224,7 +224,7 @@ export default function HomePage() {
             Tại sao chọn chúng tôi
           </motion.h2>
           <motion.p className="text-xl text-muted-foreground" variants={itemVariants}>
-            XYZ Corp là đối tác lý tưởng cho sự phát triển nghề nghiệp của bạn
+            Recruitpro Corp là đối tác lý tưởng cho sự phát triển nghề nghiệp của bạn
           </motion.p>
         </motion.div>
 
@@ -394,7 +394,7 @@ export default function HomePage() {
             Dự án tiêu biểu
           </motion.h2>
           <motion.p className="text-xl text-muted-foreground" variants={itemVariants}>
-            Những thành tựu nổi bật mà XYZ Corp đã đạt được
+            Những thành tựu nổi bật mà Recruitpro Corp đã đạt được
           </motion.p>
         </motion.div>
 
@@ -429,7 +429,7 @@ export default function HomePage() {
               </p>
               <div className="flex items-center gap-2 text-sm text-gray-500">
                 <Briefcase className="h-4 w-4" />
-                <span>Khách hàng: Tập đoàn ABC</span>
+                <span>Khách hàng: Tập đoàn VinGroup</span>
               </div>
             </div>
           </motion.div>
